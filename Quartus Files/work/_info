@@ -1,0 +1,664 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\kille\Desktop\Altera
+Echen_kevin_bitwise_and
+Z0 w1552946839
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\kille\Desktop\Chen_Kevin\Lab 3\Quartus Files
+Z4 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND.vhd
+Z5 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND.vhd
+l0
+L4
+V]?9Vz0OKmScG8kb`zdVh00
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1553196637.979000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND.vhd|
+Z9 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 P2PbG<n=e_C1BeQ0J_6WD1
+!i10b 1
+Aarch
+R1
+R2
+Z12 DEx4 work 22 chen_kevin_bitwise_and 0 22 ]?9Vz0OKmScG8kb`zdVh00
+l13
+L11
+V`6U9Wzl0nQJkNMZP^MAP01
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 eHI9TCYASk6gi8@4]ELU^1
+!i10b 1
+Echen_kevin_bitwise_and_tb
+Z13 w1553024149
+Z14 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z15 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND_tb.vhd
+Z16 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND_tb.vhd
+l0
+L5
+VcGYTcE0Gg08NQV9ZZFImB2
+R6
+32
+Z17 !s108 1553196639.975000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND_tb.vhd|
+Z19 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND_tb.vhd|
+R10
+R11
+!s100 h8PY?ZKbJeoOl0j5Am=bG1
+!i10b 1
+Achen_kevin_tb
+R12
+R14
+R1
+R2
+DEx4 work 25 chen_kevin_bitwise_and_tb 0 22 cGYTcE0Gg08NQV9ZZFImB2
+l11
+L8
+VFMd3oHY3T04cznhJLAPVR0
+R6
+32
+R17
+R18
+R19
+R10
+R11
+!s100 6M]k^d^nb:4FGc_?bifzE3
+!i10b 1
+Echen_kevin_bitwise_not
+Z20 w1553102398
+R1
+R2
+R3
+Z21 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT.vhd
+Z22 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT.vhd
+l0
+L4
+Vfm[ROka=n;k;8>B^>2Q2A0
+R6
+32
+Z23 !s108 1553196638.528000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT.vhd|
+Z25 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT.vhd|
+R10
+R11
+!s100 h6bY01<JfM3<hRl>z>eWd2
+!i10b 1
+Aarch
+R1
+R2
+Z26 DEx4 work 22 chen_kevin_bitwise_not 0 22 fm[ROka=n;k;8>B^>2Q2A0
+l13
+L11
+Vb:1ZDDD;_<fhfh?BGf4811
+R6
+32
+R23
+R24
+R25
+R10
+R11
+!s100 S7bPQfN[Gim_65UW[ihg;3
+!i10b 1
+Echen_kevin_bitwise_not_tb
+Z27 w1553102444
+R14
+R1
+R2
+R3
+Z28 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT_tb.vhd
+Z29 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT_tb.vhd
+l0
+L5
+VY;W2AaR@9dQJBi7Uoo8AZ3
+R6
+32
+Z30 !s108 1553196639.532000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT_tb.vhd|
+Z32 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT_tb.vhd|
+R10
+R11
+!s100 oo3`N9b;ImM^6ChL6c<IG0
+!i10b 1
+Achen_kevin_tb
+R26
+R14
+R1
+R2
+DEx4 work 25 chen_kevin_bitwise_not_tb 0 22 Y;W2AaR@9dQJBi7Uoo8AZ3
+l11
+L8
+VjM5lUQLYAiJd5hj==nb0O0
+R6
+32
+R30
+R31
+R32
+R10
+R11
+!s100 0bK_9if>J6Z:SWQ:IEV]B1
+!i10b 1
+Echen_kevin_bitwise_or
+Z33 w1552946853
+R1
+R2
+R3
+Z34 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR.vhd
+Z35 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR.vhd
+l0
+L4
+VaTb[G?lC:5zjAT<@0lPEQ1
+R6
+32
+Z36 !s108 1553196638.190000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR.vhd|
+Z38 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR.vhd|
+R10
+R11
+!s100 M^QP0zWM473bF=JgNJQHT0
+!i10b 1
+Aarch
+R1
+R2
+Z39 DEx4 work 21 chen_kevin_bitwise_or 0 22 aTb[G?lC:5zjAT<@0lPEQ1
+l13
+L11
+VifF1dV4Lo@_VaeBGzGCk;2
+R6
+32
+R36
+R37
+R38
+R10
+R11
+!s100 aiL7Z>_a4LekTN=M_cMNc1
+!i10b 1
+Echen_kevin_bitwise_or_tb
+Z40 w1553026463
+R14
+R1
+R2
+R3
+Z41 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR_tb.vhd
+Z42 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR_tb.vhd
+l0
+L5
+VZndzEdh6SiLBD`I40IKlX2
+R6
+32
+Z43 !s108 1553196639.798000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR_tb.vhd|
+Z45 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR_tb.vhd|
+R10
+R11
+!s100 =L01IbBL;T@0JDRbmJ]zZ1
+!i10b 1
+Achen_kevin_tb
+R39
+R14
+R1
+R2
+DEx4 work 24 chen_kevin_bitwise_or_tb 0 22 ZndzEdh6SiLBD`I40IKlX2
+l11
+L8
+V@A7o[PD^FQ?KeL9PO=kTS1
+R6
+32
+R43
+R44
+R45
+R10
+R11
+!s100 kioHkCOhh[z]U5PLZYLMB2
+!i10b 1
+Echen_kevin_bitwise_xor
+Z46 w1553102285
+R1
+R2
+R3
+Z47 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR.vhd
+Z48 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR.vhd
+l0
+L4
+VEn^9HK6WZd@M??O[B3Qo10
+R6
+32
+Z49 !s108 1553196638.358000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR.vhd|
+Z51 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR.vhd|
+R10
+R11
+!s100 2[]KKWn0XbeJLTlI5n3Zf3
+!i10b 1
+Aarch
+R1
+R2
+Z52 DEx4 work 22 chen_kevin_bitwise_xor 0 22 En^9HK6WZd@M??O[B3Qo10
+l13
+L11
+VI5B]M7;7@NQZn;mE4lS8<3
+R6
+32
+R49
+R50
+R51
+R10
+R11
+!s100 1@TSdY_Zg_2`L9fTNXXiQ2
+!i10b 1
+Echen_kevin_bitwise_xor_tb
+Z53 w1553102289
+R14
+R1
+R2
+R3
+Z54 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR_tb.vhd
+Z55 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR_tb.vhd
+l0
+L5
+Vk4OK1SKgDBcG[E;`N_6b32
+R6
+32
+Z56 !s108 1553196640.140000
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR_tb.vhd|
+Z58 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR_tb.vhd|
+R10
+R11
+!s100 V<c?i727ohS8^hK^=1mJ61
+!i10b 1
+Achen_kevin_tb
+R52
+R14
+R1
+R2
+DEx4 work 25 chen_kevin_bitwise_xor_tb 0 22 k4OK1SKgDBcG[E;`N_6b32
+l11
+L8
+VMP^Zn^demgWQNfHY?^LOL2
+R6
+32
+R56
+R57
+R58
+R10
+R11
+!s100 ]5VDBC_CGVD5g3Bl;^0U82
+!i10b 1
+Echen_kevin_operations
+Z59 w1553100593
+R14
+R1
+R2
+R3
+Z60 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Operations.vhd
+Z61 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Operations.vhd
+l0
+L5
+VQh9b<8MEnU^ijT_QFc>mi0
+R6
+32
+Z62 !s108 1553196641.156000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Operations.vhd|
+Z64 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Operations.vhd|
+R10
+R11
+!s100 bNkbncjHD2U^io6B^R66j2
+!i10b 1
+Aarch
+R14
+R1
+R2
+Z65 DEx4 work 21 chen_kevin_operations 0 22 Qh9b<8MEnU^ijT_QFc>mi0
+l70
+L15
+Vb08VBGHc:><?]`fGdWOI:2
+R6
+32
+R62
+R63
+R64
+R10
+R11
+!s100 [3UP<i4=Yl0MBIU>`f:`A2
+!i10b 1
+Echen_kevin_operations_tb
+Z66 w1553199909
+R14
+R1
+R2
+R3
+Z67 8C:\Users\kille\Desktop\Chen_Kevin\Lab 3\Quartus Files\Chen_Kevin_Operations_tb.vhd
+Z68 FC:\Users\kille\Desktop\Chen_Kevin\Lab 3\Quartus Files\Chen_Kevin_Operations_tb.vhd
+l0
+L5
+V4Pg`PW9Uh:@:dO2JVY?8_1
+!s100 ^cA_IgzcU9F;_H]bid@fn2
+R6
+32
+!i10b 1
+Z69 !s108 1553199951.554000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\kille\Desktop\Chen_Kevin\Lab 3\Quartus Files\Chen_Kevin_Operations_tb.vhd|
+Z71 !s107 C:\Users\kille\Desktop\Chen_Kevin\Lab 3\Quartus Files\Chen_Kevin_Operations_tb.vhd|
+R10
+R11
+Achen_kevin_tb
+R65
+R14
+R1
+R2
+Z72 DEx4 work 24 chen_kevin_operations_tb 0 22 4Pg`PW9Uh:@:dO2JVY?8_1
+l14
+L8
+V<g:2LD@LEA<ZOYMJ3Y<]30
+!s100 nD<WFS<@aWBa@faG1CSCO1
+R6
+32
+!i10b 1
+R69
+R70
+R71
+R10
+R11
+Echen_kevin_rotation_left
+Z73 w1553103464
+R1
+R2
+R3
+Z74 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left.vhd
+Z75 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left.vhd
+l0
+L4
+V`cZbXIh9AX=6JLY4:;BTD3
+R6
+32
+Z76 !s108 1553196639.078000
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left.vhd|
+Z78 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left.vhd|
+R10
+R11
+!s100 W`[;EaOz_AAPJ;U]<CNzV1
+!i10b 1
+Aarch
+R1
+R2
+Z79 DEx4 work 24 chen_kevin_rotation_left 0 22 `cZbXIh9AX=6JLY4:;BTD3
+l13
+L11
+V14oaa7Hm^3=7kQ=E=2ckE1
+R6
+32
+R76
+R77
+R78
+R10
+R11
+!s100 X1@;<2Pj1VSDV_EJoR6[Z2
+!i10b 1
+Echen_kevin_rotation_left_tb
+Z80 w1553026490
+R14
+R1
+R2
+R3
+Z81 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left_tb.vhd
+Z82 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left_tb.vhd
+l0
+L5
+VzIESzV9Cl_G:oC__lfbh?3
+R6
+32
+Z83 !s108 1553196640.347000
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left_tb.vhd|
+Z85 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left_tb.vhd|
+R10
+R11
+!s100 2:i_fz4hfc2RU[mh;WJlH1
+!i10b 1
+Achen_kevin_tb
+R79
+R14
+R1
+R2
+DEx4 work 27 chen_kevin_rotation_left_tb 0 22 zIESzV9Cl_G:oC__lfbh?3
+l11
+L8
+VijKa0^2mCEmOShT4Rb3d82
+R6
+32
+R83
+R84
+R85
+R10
+R11
+!s100 Tgn3<fWA9P4dRD:oFTZKD1
+!i10b 1
+Echen_kevin_rotation_right
+Z86 w1553103636
+R1
+R2
+R3
+Z87 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right.vhd
+Z88 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right.vhd
+l0
+L4
+VXKa7E<lH>E0Cd]A<8M]4C1
+R6
+32
+Z89 !s108 1553196639.287000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right.vhd|
+Z91 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right.vhd|
+R10
+R11
+!s100 QlgIkn?Q3W?IeC[PfXYji0
+!i10b 1
+Aarch
+R1
+R2
+Z92 DEx4 work 25 chen_kevin_rotation_right 0 22 XKa7E<lH>E0Cd]A<8M]4C1
+l13
+L11
+VDoQQh=kY>M1aCbZz`RdM_2
+R6
+32
+R89
+R90
+R91
+R10
+R11
+!s100 C^^QNh:^WaBSnKfZOzoA@2
+!i10b 1
+Echen_kevin_rotation_right_tb
+Z93 w1553103673
+R14
+R1
+R2
+R3
+Z94 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right_tb.vhd
+Z95 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right_tb.vhd
+l0
+L5
+VdWKmjK2H256AUXazJmb0n1
+R6
+32
+Z96 !s108 1553196640.543000
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right_tb.vhd|
+Z98 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right_tb.vhd|
+R10
+R11
+!s100 oMm>dW?J^:UV]kI^ITLS;2
+!i10b 1
+Achen_kevin_tb
+R92
+R14
+R1
+R2
+DEx4 work 28 chen_kevin_rotation_right_tb 0 22 dWKmjK2H256AUXazJmb0n1
+l11
+L8
+VoSL=]nJn2TaPG6QgCejhK3
+R6
+32
+R96
+R97
+R98
+R10
+R11
+!s100 ?H75cic<^L864?f:Dg;gG2
+!i10b 1
+Echen_kevin_shift_left
+Z99 w1553103129
+R1
+R2
+R3
+Z100 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left.vhd
+Z101 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left.vhd
+l0
+L4
+Vlj=gASUOFBXS00gd<6YiO0
+R6
+32
+Z102 !s108 1553196638.707000
+Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left.vhd|
+Z104 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left.vhd|
+R10
+R11
+!s100 D>@cNl8]L8T@BaVXLBbFe1
+!i10b 1
+Aarch
+R1
+R2
+Z105 DEx4 work 21 chen_kevin_shift_left 0 22 lj=gASUOFBXS00gd<6YiO0
+l13
+L11
+V<l2EV9zk>2jMJPS1I0^mU3
+R6
+32
+R102
+R103
+R104
+R10
+R11
+!s100 bAe[8J<YO4J[bVkH0C9BJ2
+!i10b 1
+Echen_kevin_shift_left_tb
+Z106 w1553103294
+R14
+R1
+R2
+R3
+Z107 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left_tb.vhd
+Z108 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left_tb.vhd
+l0
+L5
+V?LzYBd869afKRJ;SK6FSY0
+R6
+32
+Z109 !s108 1553196640.742000
+Z110 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left_tb.vhd|
+Z111 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left_tb.vhd|
+R10
+R11
+!s100 5l:W1n3`9]Dg@_;NfQB301
+!i10b 1
+Achen_kevin_tb
+R105
+R14
+R1
+R2
+DEx4 work 24 chen_kevin_shift_left_tb 0 22 ?LzYBd869afKRJ;SK6FSY0
+l11
+L8
+V18cF:CBc^cMZ9d[7GTLej2
+R6
+32
+R109
+R110
+R111
+R10
+R11
+!s100 ZE_oJA9Q7hW?j?k[aL4nc0
+!i10b 1
+Echen_kevin_shift_right
+Z112 w1553103321
+R1
+R2
+R3
+Z113 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right.vhd
+Z114 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right.vhd
+l0
+L4
+VhF=V411Qf017W872_][QG0
+R6
+32
+Z115 !s108 1553196638.892000
+Z116 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right.vhd|
+Z117 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right.vhd|
+R10
+R11
+!s100 W7;oF2`]6ld1lSA?>[7]K0
+!i10b 1
+Aarch
+R1
+R2
+Z118 DEx4 work 22 chen_kevin_shift_right 0 22 hF=V411Qf017W872_][QG0
+l13
+L11
+Vi:PjE@ki7d?Znz2:f9ePZ1
+R6
+32
+R115
+R116
+R117
+R10
+R11
+!s100 k1@YoVj^eUDl32Y>lj@Hb1
+!i10b 1
+Echen_kevin_shift_right_tb
+Z119 w1553103333
+R14
+R1
+R2
+R3
+Z120 8C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right_tb.vhd
+Z121 FC:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right_tb.vhd
+l0
+L5
+VbQIOVhg4QIYTZQIkTR__V0
+R6
+32
+Z122 !s108 1553196640.959000
+Z123 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right_tb.vhd|
+Z124 !s107 C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right_tb.vhd|
+R10
+R11
+!s100 `NbHkN8BG<a21FfkzW>3S2
+!i10b 1
+Achen_kevin_tb
+R118
+R14
+R1
+R2
+DEx4 work 25 chen_kevin_shift_right_tb 0 22 bQIOVhg4QIYTZQIkTR__V0
+l11
+L8
+V[C37P2fRfkzRK7ckcCKDn0
+R6
+32
+R122
+R123
+R124
+R10
+R11
+!s100 >TG8mPXgh41>>G97knPm20
+!i10b 1

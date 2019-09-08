@@ -1,0 +1,277 @@
+|Chen_Kevin_Bitwise
+Chen_Kevin_ALessThanB <= Chen_Kevin_Operations:inst.Chen_Kevin_LessThan
+Chen_Kevin_Start => Chen_Kevin_Operations:inst.Chen_Kevin_Start
+Chen_Kevin_a[0] => Chen_Kevin_Operations:inst.Chen_Kevin_a[0]
+Chen_Kevin_a[1] => Chen_Kevin_Operations:inst.Chen_Kevin_a[1]
+Chen_Kevin_a[2] => Chen_Kevin_Operations:inst.Chen_Kevin_a[2]
+Chen_Kevin_a[3] => Chen_Kevin_Operations:inst.Chen_Kevin_a[3]
+Chen_Kevin_a[4] => Chen_Kevin_Operations:inst.Chen_Kevin_a[4]
+Chen_Kevin_a[5] => Chen_Kevin_Operations:inst.Chen_Kevin_a[5]
+Chen_Kevin_b[0] => Chen_Kevin_Operations:inst.Chen_Kevin_b[0]
+Chen_Kevin_b[1] => Chen_Kevin_Operations:inst.Chen_Kevin_b[1]
+Chen_Kevin_b[2] => Chen_Kevin_Operations:inst.Chen_Kevin_b[2]
+Chen_Kevin_b[3] => Chen_Kevin_Operations:inst.Chen_Kevin_b[3]
+Chen_Kevin_b[4] => Chen_Kevin_Operations:inst.Chen_Kevin_b[4]
+Chen_Kevin_b[5] => Chen_Kevin_Operations:inst.Chen_Kevin_b[5]
+Chen_Kevin_op[0] => Chen_Kevin_Operations:inst.Chen_Kevin_op[0]
+Chen_Kevin_op[1] => Chen_Kevin_Operations:inst.Chen_Kevin_op[1]
+Chen_Kevin_op[2] => Chen_Kevin_Operations:inst.Chen_Kevin_op[2]
+Chen_Kevin_result[0] <= Chen_Kevin_Operations:inst.Chen_Kevin_result[0]
+Chen_Kevin_result[1] <= Chen_Kevin_Operations:inst.Chen_Kevin_result[1]
+Chen_Kevin_result[2] <= Chen_Kevin_Operations:inst.Chen_Kevin_result[2]
+Chen_Kevin_result[3] <= Chen_Kevin_Operations:inst.Chen_Kevin_result[3]
+Chen_Kevin_result[4] <= Chen_Kevin_Operations:inst.Chen_Kevin_result[4]
+Chen_Kevin_result[5] <= Chen_Kevin_Operations:inst.Chen_Kevin_result[5]
+
+
+|Chen_Kevin_Bitwise|Chen_Kevin_Operations:inst
+Chen_Kevin_a[0] => LessThan0.IN6
+Chen_Kevin_a[0] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_a[0]
+Chen_Kevin_a[0] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_a[0]
+Chen_Kevin_a[0] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_a[0]
+Chen_Kevin_a[0] => Chen_Kevin_Bitwise_NOT:Chen_Kevin_NOTFunction.Chen_Kevin_a[0]
+Chen_Kevin_a[0] => Chen_Kevin_Shift_Left:Chen_Kevin_ShiftLeftFunction.Chen_Kevin_a[0]
+Chen_Kevin_a[0] => Chen_Kevin_Shift_Right:Chen_Kevin_ShiftRightFunction.Chen_Kevin_a[0]
+Chen_Kevin_a[0] => Chen_Kevin_Rotation_Left:Chen_Kevin_RotateLeftFunction.Chen_Kevin_a[0]
+Chen_Kevin_a[0] => Chen_Kevin_Rotation_Right:Chen_Kevin_RotateRightFunction.Chen_Kevin_a[0]
+Chen_Kevin_a[1] => LessThan0.IN5
+Chen_Kevin_a[1] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_a[1]
+Chen_Kevin_a[1] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_a[1]
+Chen_Kevin_a[1] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_a[1]
+Chen_Kevin_a[1] => Chen_Kevin_Bitwise_NOT:Chen_Kevin_NOTFunction.Chen_Kevin_a[1]
+Chen_Kevin_a[1] => Chen_Kevin_Shift_Left:Chen_Kevin_ShiftLeftFunction.Chen_Kevin_a[1]
+Chen_Kevin_a[1] => Chen_Kevin_Shift_Right:Chen_Kevin_ShiftRightFunction.Chen_Kevin_a[1]
+Chen_Kevin_a[1] => Chen_Kevin_Rotation_Left:Chen_Kevin_RotateLeftFunction.Chen_Kevin_a[1]
+Chen_Kevin_a[1] => Chen_Kevin_Rotation_Right:Chen_Kevin_RotateRightFunction.Chen_Kevin_a[1]
+Chen_Kevin_a[2] => LessThan0.IN4
+Chen_Kevin_a[2] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_a[2]
+Chen_Kevin_a[2] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_a[2]
+Chen_Kevin_a[2] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_a[2]
+Chen_Kevin_a[2] => Chen_Kevin_Bitwise_NOT:Chen_Kevin_NOTFunction.Chen_Kevin_a[2]
+Chen_Kevin_a[2] => Chen_Kevin_Shift_Left:Chen_Kevin_ShiftLeftFunction.Chen_Kevin_a[2]
+Chen_Kevin_a[2] => Chen_Kevin_Shift_Right:Chen_Kevin_ShiftRightFunction.Chen_Kevin_a[2]
+Chen_Kevin_a[2] => Chen_Kevin_Rotation_Left:Chen_Kevin_RotateLeftFunction.Chen_Kevin_a[2]
+Chen_Kevin_a[2] => Chen_Kevin_Rotation_Right:Chen_Kevin_RotateRightFunction.Chen_Kevin_a[2]
+Chen_Kevin_a[3] => LessThan0.IN3
+Chen_Kevin_a[3] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_a[3]
+Chen_Kevin_a[3] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_a[3]
+Chen_Kevin_a[3] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_a[3]
+Chen_Kevin_a[3] => Chen_Kevin_Bitwise_NOT:Chen_Kevin_NOTFunction.Chen_Kevin_a[3]
+Chen_Kevin_a[3] => Chen_Kevin_Shift_Left:Chen_Kevin_ShiftLeftFunction.Chen_Kevin_a[3]
+Chen_Kevin_a[3] => Chen_Kevin_Shift_Right:Chen_Kevin_ShiftRightFunction.Chen_Kevin_a[3]
+Chen_Kevin_a[3] => Chen_Kevin_Rotation_Left:Chen_Kevin_RotateLeftFunction.Chen_Kevin_a[3]
+Chen_Kevin_a[3] => Chen_Kevin_Rotation_Right:Chen_Kevin_RotateRightFunction.Chen_Kevin_a[3]
+Chen_Kevin_a[4] => LessThan0.IN2
+Chen_Kevin_a[4] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_a[4]
+Chen_Kevin_a[4] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_a[4]
+Chen_Kevin_a[4] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_a[4]
+Chen_Kevin_a[4] => Chen_Kevin_Bitwise_NOT:Chen_Kevin_NOTFunction.Chen_Kevin_a[4]
+Chen_Kevin_a[4] => Chen_Kevin_Shift_Left:Chen_Kevin_ShiftLeftFunction.Chen_Kevin_a[4]
+Chen_Kevin_a[4] => Chen_Kevin_Shift_Right:Chen_Kevin_ShiftRightFunction.Chen_Kevin_a[4]
+Chen_Kevin_a[4] => Chen_Kevin_Rotation_Left:Chen_Kevin_RotateLeftFunction.Chen_Kevin_a[4]
+Chen_Kevin_a[4] => Chen_Kevin_Rotation_Right:Chen_Kevin_RotateRightFunction.Chen_Kevin_a[4]
+Chen_Kevin_a[5] => LessThan0.IN1
+Chen_Kevin_a[5] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_a[5]
+Chen_Kevin_a[5] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_a[5]
+Chen_Kevin_a[5] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_a[5]
+Chen_Kevin_a[5] => Chen_Kevin_Bitwise_NOT:Chen_Kevin_NOTFunction.Chen_Kevin_a[5]
+Chen_Kevin_a[5] => Chen_Kevin_Shift_Left:Chen_Kevin_ShiftLeftFunction.Chen_Kevin_a[5]
+Chen_Kevin_a[5] => Chen_Kevin_Shift_Right:Chen_Kevin_ShiftRightFunction.Chen_Kevin_a[5]
+Chen_Kevin_a[5] => Chen_Kevin_Rotation_Left:Chen_Kevin_RotateLeftFunction.Chen_Kevin_a[5]
+Chen_Kevin_a[5] => Chen_Kevin_Rotation_Right:Chen_Kevin_RotateRightFunction.Chen_Kevin_a[5]
+Chen_Kevin_b[0] => LessThan0.IN12
+Chen_Kevin_b[0] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_b[0]
+Chen_Kevin_b[0] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_b[0]
+Chen_Kevin_b[0] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_b[0]
+Chen_Kevin_b[1] => LessThan0.IN11
+Chen_Kevin_b[1] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_b[1]
+Chen_Kevin_b[1] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_b[1]
+Chen_Kevin_b[1] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_b[1]
+Chen_Kevin_b[2] => LessThan0.IN10
+Chen_Kevin_b[2] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_b[2]
+Chen_Kevin_b[2] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_b[2]
+Chen_Kevin_b[2] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_b[2]
+Chen_Kevin_b[3] => LessThan0.IN9
+Chen_Kevin_b[3] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_b[3]
+Chen_Kevin_b[3] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_b[3]
+Chen_Kevin_b[3] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_b[3]
+Chen_Kevin_b[4] => LessThan0.IN8
+Chen_Kevin_b[4] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_b[4]
+Chen_Kevin_b[4] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_b[4]
+Chen_Kevin_b[4] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_b[4]
+Chen_Kevin_b[5] => LessThan0.IN7
+Chen_Kevin_b[5] => Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction.Chen_Kevin_b[5]
+Chen_Kevin_b[5] => Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction.Chen_Kevin_b[5]
+Chen_Kevin_b[5] => Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction.Chen_Kevin_b[5]
+Chen_Kevin_result[0] <= Chen_Kevin_result[0]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[1] <= Chen_Kevin_result[1]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[2] <= Chen_Kevin_result[2]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[3] <= Chen_Kevin_result[3]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[4] <= Chen_Kevin_result[4]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[5] <= Chen_Kevin_result[5]$latch.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_LessThan <= Chen_Kevin_LessThan$latch.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_Start => Chen_Kevin_LessThan$latch.LATCH_ENABLE
+Chen_Kevin_Start => Chen_Kevin_result[0]$latch.LATCH_ENABLE
+Chen_Kevin_Start => Chen_Kevin_result[1]$latch.LATCH_ENABLE
+Chen_Kevin_Start => Chen_Kevin_result[2]$latch.LATCH_ENABLE
+Chen_Kevin_Start => Chen_Kevin_result[3]$latch.LATCH_ENABLE
+Chen_Kevin_Start => Chen_Kevin_result[4]$latch.LATCH_ENABLE
+Chen_Kevin_Start => Chen_Kevin_result[5]$latch.LATCH_ENABLE
+Chen_Kevin_op[0] => Mux0.IN2
+Chen_Kevin_op[0] => Mux1.IN2
+Chen_Kevin_op[0] => Mux2.IN2
+Chen_Kevin_op[0] => Mux3.IN2
+Chen_Kevin_op[0] => Mux4.IN2
+Chen_Kevin_op[0] => Mux5.IN2
+Chen_Kevin_op[1] => Mux0.IN1
+Chen_Kevin_op[1] => Mux1.IN1
+Chen_Kevin_op[1] => Mux2.IN1
+Chen_Kevin_op[1] => Mux3.IN1
+Chen_Kevin_op[1] => Mux4.IN1
+Chen_Kevin_op[1] => Mux5.IN1
+Chen_Kevin_op[2] => Mux0.IN0
+Chen_Kevin_op[2] => Mux1.IN0
+Chen_Kevin_op[2] => Mux2.IN0
+Chen_Kevin_op[2] => Mux3.IN0
+Chen_Kevin_op[2] => Mux4.IN0
+Chen_Kevin_op[2] => Mux5.IN0
+
+
+|Chen_Kevin_Bitwise|Chen_Kevin_Operations:inst|Chen_Kevin_Bitwise_AND:Chen_Kevin_ANDFunction
+Chen_Kevin_a[0] => Chen_Kevin_result.IN0
+Chen_Kevin_a[1] => Chen_Kevin_result.IN0
+Chen_Kevin_a[2] => Chen_Kevin_result.IN0
+Chen_Kevin_a[3] => Chen_Kevin_result.IN0
+Chen_Kevin_a[4] => Chen_Kevin_result.IN0
+Chen_Kevin_a[5] => Chen_Kevin_result.IN0
+Chen_Kevin_b[0] => Chen_Kevin_result.IN1
+Chen_Kevin_b[1] => Chen_Kevin_result.IN1
+Chen_Kevin_b[2] => Chen_Kevin_result.IN1
+Chen_Kevin_b[3] => Chen_Kevin_result.IN1
+Chen_Kevin_b[4] => Chen_Kevin_result.IN1
+Chen_Kevin_b[5] => Chen_Kevin_result.IN1
+Chen_Kevin_result[0] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[1] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[2] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[3] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[4] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[5] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Chen_Kevin_Bitwise|Chen_Kevin_Operations:inst|Chen_Kevin_Bitwise_OR:Chen_Kevin_ORFunction
+Chen_Kevin_a[0] => Chen_Kevin_result.IN0
+Chen_Kevin_a[1] => Chen_Kevin_result.IN0
+Chen_Kevin_a[2] => Chen_Kevin_result.IN0
+Chen_Kevin_a[3] => Chen_Kevin_result.IN0
+Chen_Kevin_a[4] => Chen_Kevin_result.IN0
+Chen_Kevin_a[5] => Chen_Kevin_result.IN0
+Chen_Kevin_b[0] => Chen_Kevin_result.IN1
+Chen_Kevin_b[1] => Chen_Kevin_result.IN1
+Chen_Kevin_b[2] => Chen_Kevin_result.IN1
+Chen_Kevin_b[3] => Chen_Kevin_result.IN1
+Chen_Kevin_b[4] => Chen_Kevin_result.IN1
+Chen_Kevin_b[5] => Chen_Kevin_result.IN1
+Chen_Kevin_result[0] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[1] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[2] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[3] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[4] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[5] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Chen_Kevin_Bitwise|Chen_Kevin_Operations:inst|Chen_Kevin_Bitwise_XOR:Chen_Kevin_XORFunction
+Chen_Kevin_a[0] => Chen_Kevin_result.IN0
+Chen_Kevin_a[1] => Chen_Kevin_result.IN0
+Chen_Kevin_a[2] => Chen_Kevin_result.IN0
+Chen_Kevin_a[3] => Chen_Kevin_result.IN0
+Chen_Kevin_a[4] => Chen_Kevin_result.IN0
+Chen_Kevin_a[5] => Chen_Kevin_result.IN0
+Chen_Kevin_b[0] => Chen_Kevin_result.IN1
+Chen_Kevin_b[1] => Chen_Kevin_result.IN1
+Chen_Kevin_b[2] => Chen_Kevin_result.IN1
+Chen_Kevin_b[3] => Chen_Kevin_result.IN1
+Chen_Kevin_b[4] => Chen_Kevin_result.IN1
+Chen_Kevin_b[5] => Chen_Kevin_result.IN1
+Chen_Kevin_result[0] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[1] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[2] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[3] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[4] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[5] <= Chen_Kevin_result.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Chen_Kevin_Bitwise|Chen_Kevin_Operations:inst|Chen_Kevin_Bitwise_NOT:Chen_Kevin_NOTFunction
+Chen_Kevin_a[0] => Chen_Kevin_result[0].DATAIN
+Chen_Kevin_a[1] => Chen_Kevin_result[1].DATAIN
+Chen_Kevin_a[2] => Chen_Kevin_result[2].DATAIN
+Chen_Kevin_a[3] => Chen_Kevin_result[3].DATAIN
+Chen_Kevin_a[4] => Chen_Kevin_result[4].DATAIN
+Chen_Kevin_a[5] => Chen_Kevin_result[5].DATAIN
+Chen_Kevin_result[0] <= Chen_Kevin_a[0].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[1] <= Chen_Kevin_a[1].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[2] <= Chen_Kevin_a[2].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[3] <= Chen_Kevin_a[3].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[4] <= Chen_Kevin_a[4].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[5] <= Chen_Kevin_a[5].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Chen_Kevin_Bitwise|Chen_Kevin_Operations:inst|Chen_Kevin_Shift_Left:Chen_Kevin_ShiftLeftFunction
+Chen_Kevin_a[0] => Chen_Kevin_result[1].DATAIN
+Chen_Kevin_a[1] => Chen_Kevin_result[2].DATAIN
+Chen_Kevin_a[2] => Chen_Kevin_result[3].DATAIN
+Chen_Kevin_a[3] => Chen_Kevin_result[4].DATAIN
+Chen_Kevin_a[4] => Chen_Kevin_result[5].DATAIN
+Chen_Kevin_a[5] => ~NO_FANOUT~
+Chen_Kevin_result[0] <= <GND>
+Chen_Kevin_result[1] <= Chen_Kevin_a[0].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[2] <= Chen_Kevin_a[1].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[3] <= Chen_Kevin_a[2].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[4] <= Chen_Kevin_a[3].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[5] <= Chen_Kevin_a[4].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Chen_Kevin_Bitwise|Chen_Kevin_Operations:inst|Chen_Kevin_Shift_Right:Chen_Kevin_ShiftRightFunction
+Chen_Kevin_a[0] => ~NO_FANOUT~
+Chen_Kevin_a[1] => Chen_Kevin_result[0].DATAIN
+Chen_Kevin_a[2] => Chen_Kevin_result[1].DATAIN
+Chen_Kevin_a[3] => Chen_Kevin_result[2].DATAIN
+Chen_Kevin_a[4] => Chen_Kevin_result[3].DATAIN
+Chen_Kevin_a[5] => Chen_Kevin_result[4].DATAIN
+Chen_Kevin_result[0] <= Chen_Kevin_a[1].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[1] <= Chen_Kevin_a[2].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[2] <= Chen_Kevin_a[3].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[3] <= Chen_Kevin_a[4].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[4] <= Chen_Kevin_a[5].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[5] <= <GND>
+
+
+|Chen_Kevin_Bitwise|Chen_Kevin_Operations:inst|Chen_Kevin_Rotation_Left:Chen_Kevin_RotateLeftFunction
+Chen_Kevin_a[0] => Chen_Kevin_result[1].DATAIN
+Chen_Kevin_a[1] => Chen_Kevin_result[2].DATAIN
+Chen_Kevin_a[2] => Chen_Kevin_result[3].DATAIN
+Chen_Kevin_a[3] => Chen_Kevin_result[4].DATAIN
+Chen_Kevin_a[4] => Chen_Kevin_result[5].DATAIN
+Chen_Kevin_a[5] => Chen_Kevin_result[0].DATAIN
+Chen_Kevin_result[0] <= Chen_Kevin_a[5].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[1] <= Chen_Kevin_a[0].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[2] <= Chen_Kevin_a[1].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[3] <= Chen_Kevin_a[2].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[4] <= Chen_Kevin_a[3].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[5] <= Chen_Kevin_a[4].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Chen_Kevin_Bitwise|Chen_Kevin_Operations:inst|Chen_Kevin_Rotation_Right:Chen_Kevin_RotateRightFunction
+Chen_Kevin_a[0] => Chen_Kevin_result[5].DATAIN
+Chen_Kevin_a[1] => Chen_Kevin_result[0].DATAIN
+Chen_Kevin_a[2] => Chen_Kevin_result[1].DATAIN
+Chen_Kevin_a[3] => Chen_Kevin_result[2].DATAIN
+Chen_Kevin_a[4] => Chen_Kevin_result[3].DATAIN
+Chen_Kevin_a[5] => Chen_Kevin_result[4].DATAIN
+Chen_Kevin_result[0] <= Chen_Kevin_a[1].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[1] <= Chen_Kevin_a[2].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[2] <= Chen_Kevin_a[3].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[3] <= Chen_Kevin_a[4].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[4] <= Chen_Kevin_a[5].DB_MAX_OUTPUT_PORT_TYPE
+Chen_Kevin_result[5] <= Chen_Kevin_a[0].DB_MAX_OUTPUT_PORT_TYPE
+
+

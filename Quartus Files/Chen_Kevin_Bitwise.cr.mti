@@ -1,0 +1,164 @@
+{C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Chen_Kevin_Rotation_Right_tb
+-- Compiling architecture Chen_Kevin_tb of Chen_Kevin_Rotation_Right_tb
+-- Loading entity Chen_Kevin_Rotation_Right
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Chen_Kevin_Rotation_Left
+-- Compiling architecture arch of Chen_Kevin_Rotation_Left
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Chen_Kevin_Bitwise_XOR_tb
+-- Compiling architecture Chen_Kevin_tb of Chen_Kevin_Bitwise_XOR_tb
+-- Loading entity Chen_Kevin_Bitwise_XOR
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Operations.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Operations.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Chen_Kevin_Operations
+-- Compiling architecture arch of Chen_Kevin_Operations
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Right.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Chen_Kevin_Rotation_Right
+-- Compiling architecture arch of Chen_Kevin_Rotation_Right
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Chen_Kevin_Bitwise_AND_tb
+-- Compiling architecture Chen_Kevin_tb of Chen_Kevin_Bitwise_AND_tb
+-- Loading entity Chen_Kevin_Bitwise_AND
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_XOR.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Chen_Kevin_Bitwise_XOR
+-- Compiling architecture arch of Chen_Kevin_Bitwise_XOR
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Rotation_Left_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Chen_Kevin_Rotation_Left_tb
+-- Compiling architecture Chen_Kevin_tb of Chen_Kevin_Rotation_Left_tb
+-- Loading entity Chen_Kevin_Rotation_Left
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Chen_Kevin_Shift_Right_tb
+-- Compiling architecture Chen_Kevin_tb of Chen_Kevin_Shift_Right_tb
+-- Loading entity Chen_Kevin_Shift_Right
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Chen_Kevin_Shift_Left
+-- Compiling architecture arch of Chen_Kevin_Shift_Left
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Operations_tb.vhd} {1 {vcom -work work -2002 -explicit {C:\Users\kille\Desktop\Chen_Kevin\Lab 3\Quartus Files\Chen_Kevin_Operations_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Chen_Kevin_Operations_tb
+-- Compiling architecture Chen_Kevin_tb of Chen_Kevin_Operations_tb
+-- Loading entity Chen_Kevin_Operations
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_AND.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Chen_Kevin_Bitwise_AND
+-- Compiling architecture arch of Chen_Kevin_Bitwise_AND
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Right.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Chen_Kevin_Shift_Right
+-- Compiling architecture arch of Chen_Kevin_Shift_Right
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Chen_Kevin_Bitwise_NOT_tb
+-- Compiling architecture Chen_Kevin_tb of Chen_Kevin_Bitwise_NOT_tb
+-- Loading entity Chen_Kevin_Bitwise_NOT
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Chen_Kevin_Bitwise_OR_tb
+-- Compiling architecture Chen_Kevin_tb of Chen_Kevin_Bitwise_OR_tb
+-- Loading entity Chen_Kevin_Bitwise_OR
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Shift_Left_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Chen_Kevin_Shift_Left_tb
+-- Compiling architecture Chen_Kevin_tb of Chen_Kevin_Shift_Left_tb
+-- Loading entity Chen_Kevin_Shift_Left
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_NOT.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Chen_Kevin_Bitwise_NOT
+-- Compiling architecture arch of Chen_Kevin_Bitwise_NOT
+
+} {} {}} {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/kille/Desktop/Chen_Kevin/Lab 3/Quartus Files/Chen_Kevin_Bitwise_OR.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Chen_Kevin_Bitwise_OR
+-- Compiling architecture arch of Chen_Kevin_Bitwise_OR
+
+} {} {}}
