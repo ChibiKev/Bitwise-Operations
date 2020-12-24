@@ -22,5 +22,3 @@ Chen_Kevin_result[3]	Output		LEDG[3]		PIN_V18
 Chen_Kevin_result[4]	Output		LEDG[4]		PIN_U18
 Chen_Kevin_result[5]	Output		LEDG[5]		PIN_U17
 Chen_Kevin_ALessThanB	Output		LEDR[0]		PIn_AE23
-
-
